@@ -5,6 +5,9 @@ PRODUCT_COPY_FILES += \
     vendor/mediatek-ims/proprietary/framework/mediatek-ims-legacy.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-ims-legacy.jar \
     vendor/mediatek-ims/proprietary/framework/mediatek-ims-wwop-common.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-ims-wwop-common.jar \
     vendor/mediatek-ims/proprietary/framework/mediatek-wfo-legacy.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-wfo-legacy.jar \
+    vendor/mediatek-ims/proprietary/vendor/lib64/vendor.mediatek.hardware.mtkradioex@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.mtkradioex@2.0.so \
+    vendor/mediatek-ims/proprietary/system_ext/lib64/vendor.mediatek.hardware.mtkradioex@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.mediatek.hardware.mtkradioex@2.0.so \
+    vendor/mediatek-ims/proprietary/system_ext/lib/vendor.mediatek.hardware.mtkradioex@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.mediatek.hardware.mtkradioex@2.0.so \
     vendor/mediatek-ims/proprietary/lib/libcomutils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcomutils.so \
     vendor/mediatek-ims/proprietary/lib/libimsma.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libimsma.so \
     vendor/mediatek-ims/proprietary/lib/libimsma_adapt.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libimsma_adapt.so \
